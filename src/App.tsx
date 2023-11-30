@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import styled from 'styled-components';
 import { StyleBtn } from './components/Button.styled';
-import { Menu } from './components/Menu';
 import { MYtheme } from './components/styles/TheneStyled';
 
 
@@ -46,5 +45,4 @@ button {
 @media ${MYtheme.media.tablet} {
   flex-direction: column;
 }
-
 `
