@@ -3,7 +3,7 @@ import React from 'react';
 const Post = () => {
     return (
         <div>
-            <h2>Get enough</h2>
+            <h2>User</h2>
         </div>
     );
 };
