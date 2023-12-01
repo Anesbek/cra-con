@@ -9,10 +9,7 @@ function App() {
   return (
     <div className="App">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aut cumque deleniti excepturi ratione sit tempore temporibus tenetur. Assumenda aut doloremque harum iusto modi natus nemo, provident rerum soluta voluptatibus.</p>
-      
 
-    
-    
       <BOX>
        <StyleBtn color ={MYtheme.colors.primary} primary>Hello</StyleBtn>
        <StyleBtn color ={MYtheme.colors.secondary} outlined>Hello</StyleBtn>
